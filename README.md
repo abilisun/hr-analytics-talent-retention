@@ -21,7 +21,7 @@ Over the analyzed dataset, the organization manages **311 total headcount** with
 
 ## 📈 Dashboard Preview & Deep-Dive Analysis
  
-![Dashboard Preview](assets/dashboard_preview.jpg)
+![Dashboard Preview](assets/dashboard_preview.png)
 
 ### 1. Departmental Turnover Rate Analysis
 * **Finding**: Analysis reveals severe retention challenges in operational and technical units. **Production** recorded the highest turnover rate at **39.71%** (83 terminations out of 209 headcount), closely followed by **Software Engineering** at **36.36%** (4 out of 11). Executive Office maintained a 0% turnover rate.
